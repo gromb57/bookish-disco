@@ -13,6 +13,14 @@
 - [iTerm2](https://iterm2.com)
 - [Fig](https://fig.io) Your terminal, reimagined
 - [Boop](https://apps.apple.com/us/app/boop/id1518425043?mt=12)
+- [BetterDisplay](https://github.com/waydabber/BetterDisplay) Display manager
+- [Tiles](https://freemacsoft.net/tiles/) Window manager
+- [Lulu](https://objective-see.org/products/lulu.html) Firewall
+- [Maccy](https://maccy.app) Clipboard manager
+- [Bartender](https://www.macbartender.com) Menubar manager
+- [Stats](https://github.com/exelban/stats)
+- [AppTamer](https://www.stclairsoft.com/AppTamer/)
+- [Hammerspoon](https://www.hammerspoon.org) Automation
 
 ## JavaScript
 
