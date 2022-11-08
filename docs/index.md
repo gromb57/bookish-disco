@@ -21,6 +21,7 @@
 - [Stats](https://github.com/exelban/stats)
 - [AppTamer](https://www.stclairsoft.com/AppTamer/)
 - [Hammerspoon](https://www.hammerspoon.org) Automation
+- [Gephi](https://gephi.org) The Open Graph Viz Platform
 
 ## JavaScript
 
