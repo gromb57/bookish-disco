@@ -22,6 +22,7 @@
 - [AppTamer](https://www.stclairsoft.com/AppTamer/)
 - [Hammerspoon](https://www.hammerspoon.org) Automation
 - [Gephi](https://gephi.org) The Open Graph Viz Platform
+- [Raycast](https://www.raycast.com) A productivity bar
 
 ## JavaScript
 
