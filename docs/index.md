@@ -33,6 +33,15 @@
 
 - [Ngrok](https://ngrok.com) Public URLs for localhost projects
 
+# Dev
+
+- Git configurations
+  - `git config --global user.name`
+  - `git config --global user.email`
+  - `git config --global init.defaultBranch <name>`
+  - `git config --global pull.rebase true`
+  - `git config --global rebase.autoStash true` 
+
 ## Web Dev
 
 - [Responsively](https://responsively.app) Develop responsive web apps 5x faster!
