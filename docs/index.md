@@ -69,3 +69,8 @@
 
 - [iOS App Signer](https://www.iosappsigner.com)
 - [Clean architecture](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM)
+
+## Dev with AI
+
+- [Claude code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
+- [Cursor](https://www.cursor.com)
